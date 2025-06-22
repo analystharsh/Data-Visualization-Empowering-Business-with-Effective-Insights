@@ -1,6 +1,6 @@
 # Data Visualization: Empowering Business with Effective Insights (Strategic Insights for online retail expansion)
 
-|![Add a heading](![headerImage](https://github.com/user-attachments/assets/60eea20e-c0e9-47e5-ad51-3b600a56f9cd))|
+|![headerImage](https://github.com/user-attachments/assets/60eea20e-c0e9-47e5-ad51-3b600a56f9cd))|
 |--------------|
 
 ## Overview:
