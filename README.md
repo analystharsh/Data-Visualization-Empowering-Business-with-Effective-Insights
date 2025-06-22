@@ -1,6 +1,6 @@
 # Data Visualization: Empowering Business with Effective Insights (Strategic Insights for online retail expansion)
 
-|![Add a heading](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/3bafbaac-5b78-46f4-9bb7-7b07bb1a3bea)|
+|![Add a heading](![headerImage](https://github.com/user-attachments/assets/60eea20e-c0e9-47e5-ad51-3b600a56f9cd))|
 |--------------|
 
 ## Overview:
@@ -39,17 +39,17 @@ In this project. I worked on a project where I looked at a lot of information to
  - Created a suite of visualizations for effective communication.
    
 
-|![Screenshot (253)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/232d3fa8-d61f-4b7b-9364-c29eb1f7d6f0)|
+|![Image1](https://github.com/user-attachments/assets/6be11cdd-8c08-44ca-80e2-afa30f5eb73c)|
 |---------------|
 
 Identified seasonal revenue trends, showcasing exceptional growth from **September to November**.
 
-|![Screenshot (254)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/65d0f5a9-f434-424d-a607-1225fba5ea40)|
+|![Image2](https://github.com/user-attachments/assets/909b218e-c801-4dde-89df-9ff6c6520bfb)|
 |---------------|
 
 Identified top-performing countries in terms of revenue – **Netherlands, Ireland, Germany, and France**. Proposed specific strategies to improve their market positions.
 
-|![Screenshot (256)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/dfcb698d-3d91-499e-aa38-0bc4e19a5496)|
+|![Image3](https://github.com/user-attachments/assets/f6d60640-f35b-4ce2-9ceb-57440f02d87e)|
 |---------------|
 
 Explored the top 10 customers, noting low variation and suggesting a strategy to enhance customer satisfaction.
