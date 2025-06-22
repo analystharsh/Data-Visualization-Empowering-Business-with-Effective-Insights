@@ -12,7 +12,7 @@ In this project. I worked on a project where I looked at a lot of information to
     - Concentrating our efforts on certain countries and types of customers could lead to significant boosts in both earnings and the portion of the market we capture.
 
 ## Data Source:
-  Here's the [Online Retail sales raw data](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/blob/main/Task%201%20Framing%20the%20Business%20Scenario/Online%20Retail.xlsx)
+  Here's the [Online Retail sales raw data](https://github.com/analystharsh/Data-Visualization-Empowering-Business-with-Effective-Insights/blob/main/Task%201%20Framing%20the%20Business%20Scenario/Online%20Retail.xlsx)
 
 ## Business Problem:
  - Examine the monthly revenue data from 2011 to identify patterns related to seasons, improving our ability to predict sales accurately.
@@ -75,7 +75,7 @@ Discovered regions with high product demand, recommending focused expansions tha
  
 **6.View Full Dashboard:**
 
-Here's the [View Dashboard](https://app.powerbi.com/links/5yLZ5zOp6Q?ctid=b9cd496c-35ed-4f56-9942-e91f9a3d8d48&pbi_source=linkShare)
+Here's the [View Dashboard](https://github.com/analystharsh/Data-Visualization-Empowering-Business-with-Effective-Insights/blob/main/Task%203%20Creating%20Effective%20Visuals/TATA%20Internship%20-%20Data%20Visualization%20-Empowering%20Business%20with%20Effective%20Insights.pbix)
 
 ## Tools and Software:
 1. Power BI
