@@ -54,7 +54,7 @@ Identified top-performing countries in terms of revenue – **Netherlands, Irela
 
 Explored the top 10 customers, noting low variation and suggesting a strategy to enhance customer satisfaction.
 
-|![Screenshot (257)](https://github.com/yogeshkasar778/Tata-Group-Data-Visualization-Internship-Empowering_Business_with_effective_insights/assets/118357991/0a27365e-e681-48bb-bcdb-a61ef9216d91)|
+|![Screenshot (257)](![Image](https://github.com/user-attachments/assets/2d4db328-9d86-47bb-960e-c7ef577d23e0))|
 |---------------|
 
 Discovered regions with high product demand, recommending focused expansions that could potentially lead to a **25%** increase in overall revenue.
