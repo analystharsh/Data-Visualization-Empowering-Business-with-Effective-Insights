@@ -54,7 +54,7 @@ Identified top-performing countries in terms of revenue – **Netherlands, Irela
 
 Explored the top 10 customers, noting low variation and suggesting a strategy to enhance customer satisfaction.
 
-|![Screenshot (257)](![Image](https://github.com/user-attachments/assets/2d4db328-9d86-47bb-960e-c7ef577d23e0))|
+|![Image](https://github.com/user-attachments/assets/733b9d9b-5b75-4386-b9bf-bc373f9ebe57)|
 |---------------|
 
 Discovered regions with high product demand, recommending focused expansions that could potentially lead to a **25%** increase in overall revenue.
